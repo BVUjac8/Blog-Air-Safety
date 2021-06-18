@@ -18,7 +18,6 @@ Determining how to convey air safety to customers, frequent or new, in the form 
 * [Pycharm](https://www.jetbrains.com/pycharm/): Most recent version
 * [Tableau](https://www.tableau.com/) Any version
 * [Wix](https://www.wix.com/): Any version
-* [Microsoft PowerPoint](https://www.microsoft.com/en-us/): Any version
 * [Microsoft Word](https://www.microsoft.com/en-us/): Any version
 * [Adobe PDF](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html): Any version
 ### Installation
